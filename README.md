@@ -1,4 +1,4 @@
-- Hi, I’m @SnappyRiffs
+- Hi, I’m SnappyRiffs
 - I’m interested in ...
 - I’m currently learning how to use this
 - I’m looking to collaborate on this page
