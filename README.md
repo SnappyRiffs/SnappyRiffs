@@ -1,5 +1,3 @@
-- Hi, I’m SnappyRiffs
-- How to reach me: jadonjung3@gmail.com
 
 <!---
 SnappyRiffs/SnappyRiffs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
