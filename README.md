@@ -1,7 +1,4 @@
 - Hi, I’m SnappyRiffs
-- I’m interested in logic
-- I’m currently learning how to use this
-- I’m looking to collaborate on this page
 - How to reach me: jadonjung3@gmail.com
 
 <!---
