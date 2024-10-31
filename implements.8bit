@@ -1,8 +1,0 @@
-module def(mode, var:[num:int])(
-    for(int num:var){
-        def(mode,var[num]);
-    }
-)
-module def(mode,var)(
-    pinMode(var,mode);
-)
