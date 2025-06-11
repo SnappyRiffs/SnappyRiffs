@@ -7,4 +7,3 @@ You can click the Preview link to take a look at your changes.
 [![SnappyRiffs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnappyRiffs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Preview Deployment](https://github.com/arduino/docs-content/actions/workflows/preview.yml/badge.svg?event=pull_request)](https://github.com/arduino/docs-content/actions/workflows/preview.yml)
