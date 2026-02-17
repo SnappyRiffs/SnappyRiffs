@@ -1,2 +1,2 @@
 
-![](https://komarev.com/ghpvc/?username=SnappyRiffs&label=PROFILE+VIEWS&color=ffff00&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=SnappyRiffs&label=PROFILE+VIEWS&color=yellow&abbreviated=true)
